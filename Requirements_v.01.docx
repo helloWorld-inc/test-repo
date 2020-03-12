@@ -1,0 +1,35 @@
+Project: DC Scheduling 
+
+ 
+
+Purpose of this document 
+
+This document contains the specification of requirements for the construction of a website. 
+
+The web site contains: 
+
+The web site must show a calendar of the months (with days and weeks); 
+
+It will be necessary change between the months; 
+
+On the web page the user will be able to select the class the wants the information; 
+
+On the right side (subject panel) must be display the subjects of the class; 
+
+On the right side the subject panel must be able to appear the contend of the assessment; 
+
+Each subject must have a specific colour; 
+
+The user will be able to see the due assignments (according with a specific colour assign) and the period that the assignment start and finish; 
+
+The days passed of the start of the period the colour must change to a lighter colour. 
+
+When the user click on the subject will show the contend of the assessment; 
+
+  
+
+Notes: The must be intuitive and responsive. 
+
+v.01-05/03 
+
+ 
