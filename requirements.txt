@@ -1,3 +1,0 @@
-use mark logo
-make calendar
-make about page
